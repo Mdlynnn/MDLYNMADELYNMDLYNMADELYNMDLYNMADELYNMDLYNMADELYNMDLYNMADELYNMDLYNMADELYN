@@ -17,7 +17,7 @@ avtr_a0e30136-d275-47f4-a54f-dd770a306562 Totally real fish
 avtr_bcd9b7b0-9d67-4c3d-b7b5-9712defa654d fur
 avtr_c1d78759-c0ca-49a9-8ed9-158475bdfffd mexican skeleton?
 avtr_e4381f76-2817-444e-a9b7-c891a92d1ac0 Alternate （Mandela catalogue）
-avtr_c38a1615-5bf5-42b4-84eb-a8b6c37cbd11 Robot
+avtr_c38a1615-5bf5-42b4-84eb-a8b6c37cbd11 Robot VRChat
 avtr_c4961195-1980-4a98-bb95-3cbe0e063463 Area 51 Alien
 avtr_745b53e9-e90d-4db6-9035-4860a87c5e07 Duck
 avtr_2973f03d-50c8-403f-9fac-ffaa60744bc2 Rollthered
@@ -45,3 +45,7 @@ avtr_ccf8f3f8-9c8c-409f-a8b0-8e831e193a8c Evil Wizard Cat
 avtr_b8798815-d0f3-4219-8aa8-5712b8eeb725 Raridade
 avtr_61b088de-45b3-4b77-919e-ce3a44bc0f2c yapdolla
 avtr_f4ac9150-2b5b-493e-8d56-7840e865ec48 Daniel
+avtr_848fe72f-0a9d-450a-aadf-7bd5d315a385 Frog （aDanza）
+avtr_11f8581b-1a63-461c-83bd-4069c166fb72 Alien_Gang
+avtr_2bd7ac6e-f3bb-469c-8177-040c32a6cc0b raincandy_u
+avtr_5e18ce2b-6577-4673-8657-1f4e6828f5c7 we all die 
